@@ -1,6 +1,6 @@
 # Official Pancake Brand Assets
 
-These are the Pancake brand assets, here you will find all the files previously shown in the official documentation, and its direct download.
+These are the Pancake brand assets, here you will find all the files previously shown in the official documentation, usage guidelines, and its direct download.
 
 # Brand usage guidelines
 
