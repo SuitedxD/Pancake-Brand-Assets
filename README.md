@@ -29,7 +29,7 @@ This page describes asset organization and practical visual-use guidance. It doe
 
 # Direct Download
 
-- [Click here to download the lastest Pancake Brand Assets](https://github.com/SuitedxD/Pancake-Brand-Assets/releases/download/brand-assets/Pancake.Brand.Assets.1.0.0.zip).
+- [Click here to download the latest Pancake Brand Assets](https://github.com/SuitedxD/Pancake-Brand-Assets/releases/download/brand-assets/Pancake.Brand.Assets.1.0.0.zip).
 
 # See Also
 - [Pancake Brand Assets Documentation](https://suitedxd.github.io/pancake-development-team/pancake/docs/?doc=831196984902987159549103)
